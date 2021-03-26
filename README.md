@@ -70,4 +70,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Andres Rios - [LinkedIn](www.linkedin.com/in/andresriosgtz) - andres.rios@honeywell.com
+Andres Rios - [LinkedIn](https://www.linkedin.com/in/andresriosgtz/) - andres.rios@honeywell.com

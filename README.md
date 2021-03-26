@@ -29,7 +29,7 @@ Getting started
 2. Install dependencies
    ```sh
    pip3 install -r requirements
-   pip install connexion[swagger-ui]
+   pip3 install connexion[swagger-ui]
    ```
 
 3. Run the service

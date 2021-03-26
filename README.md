@@ -10,7 +10,7 @@ Warehouse service: saves products by category and with a unique id in a NoSQL da
 - [Python3](https://www.python.org/download/releases/3.0/)
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
-## Getting started
+Getting started
 ---------------
 
 ### Prerequisites
@@ -37,7 +37,7 @@ Warehouse service: saves products by category and with a unique id in a NoSQL da
    python3 app.py
    ```
 
-## Usage
+Usage
 -----
 API Documentation [Swagger](https://swagger.io/)
 ```
@@ -63,7 +63,7 @@ POST /v1/products/createProduct
 GET /products/getproduct/{prodId}
 ```
 
-## Contributing
+Contributing
 ---------------
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
